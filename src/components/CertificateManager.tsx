@@ -1,4 +1,3 @@
-
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -11,7 +10,7 @@ import {
   AlertTriangle,
   Upload,
   Eye,
-  Refresh
+  RefreshCw
 } from "lucide-react";
 
 const CertificateManager = () => {
@@ -79,7 +78,7 @@ const CertificateManager = () => {
             Upload Certificate
           </Button>
           <Button>
-            <Refresh className="h-4 w-4 mr-2" />
+            <RefreshCw className="h-4 w-4 mr-2" />
             Renew Certificate
           </Button>
         </div>
@@ -210,7 +209,7 @@ const CertificateManager = () => {
               <span>Upload New Certificate</span>
             </Button>
             <Button variant="outline" className="flex flex-col items-center p-6 h-auto">
-              <Refresh className="h-6 w-6 mb-2" />
+              <RefreshCw className="h-6 w-6 mb-2" />
               <span>Renew Certificate</span>
             </Button>
             <Button variant="outline" className="flex flex-col items-center p-6 h-auto">
