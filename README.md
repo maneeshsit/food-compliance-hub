@@ -2,7 +2,23 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/f4daf954-d740-4473-837c-5426422eb395
+**URL**: [https://lovable.dev/projects/f4daf954-d740-4473-837c-5426422eb395](https://fssai-spotlight-vision.lovable.app/)
+
+# Food Compliance Hub
+
+## Project Summary
+
+**Food Compliance Hub** is an AI-powered food regulatory compliance platform designed to help food businesses understand, monitor, and act on changing food-safety requirements. It brings regulatory information, compliance guidance, and practical workflows into a single digital platform, reducing the effort required to interpret regulations and maintain compliance.
+
+Today, food businesses often depend on fragmented government websites, circulars, PDFs, manual searches, consultants, and spreadsheets to identify applicable requirements and track compliance. This approach is time-consuming, difficult to scale, and increases the risk of missing regulatory updates or deadlines.
+
+Food Compliance Hub provides a more proactive and user-friendly alternative. It organizes regulatory information around business needs, surfaces relevant compliance requirements, simplifies complex regulatory content, and supports faster decision-making. By combining AI-assisted information discovery with structured compliance workflows, the platform helps move food compliance from a reactive, document-heavy activity toward a continuous digital process.
+
+The key advantage is **centralization, contextualization, and actionability**. Instead of searching multiple sources and manually interpreting requirements, users can access relevant compliance information and guidance through one platform. This can reduce compliance effort, improve visibility, and help food businesses respond more quickly to regulatory changes.
+
+**Project:** Food Compliance Hub
+**Platform:** https://fssai-spotlight-vision.lovable.app/
+
 
 ## How can I edit this code?
 
